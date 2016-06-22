@@ -1,0 +1,25 @@
+.container_12{
+background: blue;
+}
+nav{
+  background: orange;
+}
+nav li{
+  display: inline;
+  margin-left: 0;
+  margin-right: 30px;
+}
+.sidebar{
+  background: green;
+}
+.primary{
+  background: grey;
+}
+header{background: yellow}
+.main{
+  margin-top: 20px 0;
+}
+section{
+  box-sizing: border-box;
+  padding: 5px;
+}
